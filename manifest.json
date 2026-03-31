@@ -1,0 +1,11 @@
+{
+  "name": "ЭхоКГ Калькулятор",
+  "short_name": "ЭхоКГ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ru",
+  "description": "Калькулятор измерений ЭхоКГ и черновика заключения.",
+  "icons": []
+}
